@@ -1,0 +1,10 @@
+module.exports = {
+  api: {
+    upc: 'api_key=AGfEqQqGhphAHGNzD43BSzADNdKyC7oIyPt8ovVj',
+    ndbno: 'api_key=AGfEqQqGhphAHGNzD43BSzADNdKyC7oIyPt8ovVj',
+    edamam: 'app_key=a56469a8e5c8652660440e595a4f5b90',
+    edamamId: 'app_id=4774d0c5',
+    barcode: 'AVBrqQPLGAPiRWLNowlvS2k4Wd8rAfsiLUivg61IL3jgc7pgfEievft7gSJGC6M7tF7F5EFydx5aZsTmO166NCtDD4D1LzclbVE2iSpRHmg9MzUOjmAP7uZk/wd8VBjVwGhI9ktT2qiXLk51TbXZvTGJgNBB3kZLFGDFEQ+fn2Kuz+ziooN9BpyDcvaHWyoRdpCAK99RCDA9mUkBFu9XQIzoqeZd+/mMMno9GtW185dW8J34gdWcp8ihRhAPjqivSRNiRf1UZ/znRNZ391TXzHooC401G47Yuurr/TaqrPCJoKG9iFj7+MbgwyP2M3kqf2tF6tmka1gO9raYcSMPM8dehROxYb7sL0gxJvIxkwodJNq28TiHRIbwxL6MHQ7v/3OpnZ+DKOpqIkktGnCh8IPn/cl9D0GzSA6+l5G627J1yP/Chz952rC0ntGwFQskMX8NOSSOcHUqeDznP2OufJtLKf42prn4O+KenETEw2fmjjrro7O0G/5jrlc/qJGjBNJxMR9x28jVFycXlvxhXRGzT0hrpUJ948Z75smg3Lj4IIw8mQKj/5PDSQHrzAmggHwgschnd7iWfJxTLZ/FZMRlbx2A7gRFqhUh3GZasYE0aUCWzv2MWgKCISn8zLPSFXMsKijEev07FYnp+rE7Jv/Q4A9HMAKB45tHuNcxSlIQu8Zmn9UJFQe/t0upihDzkShV24TctJtB7xhpGnaKIRcWPQR4l4u9gSC19aQF5ravBoCDY7R+HlAmXjMHvVLsbT8beQct2pmQ76kQg+tJG5hxDkjh2COpySz/KDqh8cEusxnzF4qJV1Tf3+T4',
+    imageRecognition: 'b1555be548310e779283830eb5f2cc3d664e5248'
+   }
+ }
